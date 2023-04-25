@@ -21,3 +21,6 @@ Key finding topics in this analysis.
 15. Time series of total number of deaths from self-harm in New Zealand
 16. Time series of data not related to disease in New Zealand
 17. Bar chart race
+
+
+https://www.kaggle.com/code/kamalapousajja/cause-of-deaths-analysis
