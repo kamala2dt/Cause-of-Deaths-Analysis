@@ -23,4 +23,12 @@ Key finding topics in this analysis.
 17. Bar chart race
 
 
+The updated version of this Project at Kaggle link below.
+
+
 https://www.kaggle.com/code/kamalapousajja/cause-of-deaths-analysis
+
+
+
+
+
